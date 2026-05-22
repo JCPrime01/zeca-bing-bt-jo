@@ -24,6 +24,6 @@
       return;
     }                                                                                                                                                                                      
                                                                                                                                                                                          
-    res.writeHead(302, { Location: 'https://go.aff.bateu.bet.br/2wo6uo64?shareCode=2TGGPYUFLL5&afp8=bingo&home=1' });                                                                                                                          
+    res.writeHead(302, { Location: 'https://go.aff.bateu.bet.br/2wo6uo64?shareCode=8BCRTW4T1I8&afp8=bingo&home=1' });                                                                                                                          
     res.end();                                                                                                                                                                           
   }
